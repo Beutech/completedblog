@@ -1,0 +1,71 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.blog{
+    background-color: hsl(47, 88%, 63%);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.firstdiv{
+    background-color: white;
+    width: 23vw;
+    height: 65vh;
+    border: 1px solid black;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-right: 0px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.firstcolumn{
+    width: 23vw;
+    height: 29vh;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.learning{
+    font-size: 14px;
+    color: black;
+    background-color:  hsl(47, 88%, 63%);
+    font-weight: 700;
+    height: 4vh;
+    width: 5.5vw;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+.published{
+    font-weight: 500;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.html{
+    font-weight: 800;
+    font-size: 20px;
+}
+.these{
+    font-size: 18px;
+    color: hsl(0, 0%, 50%); 
+    margin-top: 15px;
+
+}
+.greg{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.greghooper{
+    color: black;
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: 7px;
+    margin-top: 5px;
+}
